@@ -1,1 +1,1 @@
-Testing this
+This is the project repository for Dante, Chris, and Kristian's project.
